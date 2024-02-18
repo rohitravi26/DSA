@@ -37,19 +37,19 @@ public class Trie {
             insert(keys[i]);
 
 
-        if(search("the") == true)
+        if(search("the"))
             System.out.println("the --- " + output[1]);
         else System.out.println("the --- " + output[0]);
 
-        if(search("these") == true)
+        if(search("these"))
             System.out.println("these --- " + output[1]);
         else System.out.println("these --- " + output[0]);
 
-        if(search("their") == true)
+        if(search("their"))
             System.out.println("their --- " + output[1]);
         else System.out.println("their --- " + output[0]);
 
-        if(search("thaw") == true)
+        if(search("thaw"))
             System.out.println("thaw --- " + output[1]);
         else System.out.println("thaw --- " + output[0]);
 
