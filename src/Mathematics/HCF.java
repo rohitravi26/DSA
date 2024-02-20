@@ -21,6 +21,7 @@ public class HCF {
     }
     return a;
   }
+  // tc : log(min(a,b))
   static int hcfOptimized(int a, int b){
     if(b == 0){
       return a;
