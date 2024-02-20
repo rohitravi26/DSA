@@ -1,6 +1,7 @@
 package Mathematics;
 
 public class Divisors {
+  // tc : O(sqrt n)
   static void findDivisors(int n){
     int i = 1;
     for(; i*i <= n; i++){
