@@ -76,7 +76,7 @@ public class Trie {
 
     public static boolean search(String key)
     {
-      if(key.length()==0)
+      if(key.isEmpty())
             return false;
 
       Node node = root_node;

@@ -2,6 +2,7 @@ package BinaryTree;
 
 public class CountNodesInCompleteBinaryTree {
 
+  // tc : o(logn * logn)
   static int countNodes(Node root){
     int lh = 0, rh = 0;
     Node curr = root;
