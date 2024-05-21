@@ -5,7 +5,9 @@ public class TwoOddOccurring {
   static void findOdd(int[] arr){
     // res = 4 ^ 6 = 0100 ^ 0110 = 0010 = 2 1101 + 1 = 1110 & 0010
     int x = FindOneOddOccurring.find(arr);
-    // It finds the number which has only 1 bit set and the  set bit corresponds to last  set bit of x.
+    // It finds the number which has only 1 bit set and
+    // the set bit corresponds to last set bit of x.
+    // Get the rightmost set bit
     int k = x &(-x); // or int k = x &(~(x-1));
     int res1 = 0, res2 = 0;
     for (int i : arr){
