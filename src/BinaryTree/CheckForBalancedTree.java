@@ -1,6 +1,5 @@
 package BinaryTree;
 
-import javafx.util.Pair;
 // tc: o(n)
 public class CheckForBalancedTree {
   static int isBalancedTreeUtil(Node root){
