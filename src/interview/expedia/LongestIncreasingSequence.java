@@ -42,10 +42,8 @@ public class LongestIncreasingSequence {
             }else{
                 int index = getNearestSmallerIndex(list, arr[i]);
                 list.set(index, arr[i]);
-                System.out.println(list);
             }
         }
-        System.out.println(list);
         return list.size();
     }
     static int getNearestSmallerIndex(List<Integer> list, int item){
@@ -94,6 +92,6 @@ public class LongestIncreasingSequence {
         System.out.println(find(arr.length, arr, -1, 0));
         //System.out.println(findUsingDp(arr));
         System.out.println(solutionOptimized(arr));
-        System.out.println(binarySearch(Arrays.asList(new Integer[] {2}), 1, 0, 0 ));
+        System.out.println(binarySearch1(Arrays.asList(new Integer[] {1, 4, 6}), 5, 0, 2 ));
     }
 }

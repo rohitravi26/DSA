@@ -1,5 +1,7 @@
 package interview.expedia;
 
+import java.util.Comparator;
+
 public class Patient implements Comparable<Patient> {
     String name;
     int age;

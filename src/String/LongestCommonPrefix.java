@@ -17,7 +17,7 @@ public class LongestCommonPrefix {
         {
             //int n = Integer.parseInt(br.readLine());
 
-            String s = "geeksforgeeks geek geeks geezser"; //br.readLine();
+            String s = "sgeeksforgeks geek geeks geezser"; //br.readLine();
 
             String[] str = s.split(" ");
 
