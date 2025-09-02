@@ -1,0 +1,721 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CombinationSum2",
+            "request": "launch",
+            "mainClass": "BackTracking.CombinationSum2",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "CombinationSum1",
+            "request": "launch",
+            "mainClass": "BackTracking.CombinationSum1",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Subset1",
+            "request": "launch",
+            "mainClass": "BackTracking.Subset1",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Subset2",
+            "request": "launch",
+            "mainClass": "BackTracking.Subset2",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "MinimizeDistance",
+            "request": "launch",
+            "mainClass": "BinaryTree.MinimizeDistance",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Sqrt",
+            "request": "launch",
+            "mainClass": "BinaryTree.Sqrt",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicateLetters",
+            "request": "launch",
+            "mainClass": "stack.RemoveDuplicateLetters",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "MeetingRoomsII",
+            "request": "launch",
+            "mainClass": "LineSweep.MeetingRoomsII",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "MeetingRoomsII",
+            "request": "launch",
+            "mainClass": "Heap.MeetingRoomsII",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MedianSortedArray",
+            "request": "launch",
+            "mainClass": "Array.MedianSortedArray",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "RearrangeArray",
+            "request": "launch",
+            "mainClass": "Array.RearrangeArray",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "Array.SearchInRotatedSortedArray",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "NQueen",
+            "request": "launch",
+            "mainClass": "BackTracking.NQueen",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "RatInMaze",
+            "request": "launch",
+            "mainClass": "BackTracking.RatInMaze",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "BottomView",
+            "request": "launch",
+            "mainClass": "BinaryTree.BottomView",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "BurnTree",
+            "request": "launch",
+            "mainClass": "BinaryTree.BurnTree",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "CheckForBalancedTree",
+            "request": "launch",
+            "mainClass": "BinaryTree.CheckForBalancedTree",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "ChildrenSumProperty",
+            "request": "launch",
+            "mainClass": "BinaryTree.ChildrenSumProperty",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "ConstructBinaryTree",
+            "request": "launch",
+            "mainClass": "BinaryTree.ConstructBinaryTree",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "CountNodesInCompleteBinaryTree",
+            "request": "launch",
+            "mainClass": "BinaryTree.CountNodesInCompleteBinaryTree",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Diameter",
+            "request": "launch",
+            "mainClass": "BinaryTree.Diameter",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "FindKClosest",
+            "request": "launch",
+            "mainClass": "BinaryTree.FindKClosest",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "IterativeInorderTraversal",
+            "request": "launch",
+            "mainClass": "BinaryTree.IterativeInorderTraversal",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "IterativePreOrderTraversal",
+            "request": "launch",
+            "mainClass": "BinaryTree.IterativePreOrderTraversal",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "LeftView",
+            "request": "launch",
+            "mainClass": "BinaryTree.LeftView",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "LevelOrderTraversal",
+            "request": "launch",
+            "mainClass": "BinaryTree.LevelOrderTraversal",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "LowestCommonAncestor",
+            "request": "launch",
+            "mainClass": "BinaryTree.LowestCommonAncestor",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "PrintNodesAtKDistance",
+            "request": "launch",
+            "mainClass": "BinaryTree.PrintNodesAtKDistance",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "RotatedSortedArray",
+            "request": "launch",
+            "mainClass": "BinaryTree.RotatedSortedArray",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "SingleElement",
+            "request": "launch",
+            "mainClass": "BinaryTree.SingleElement",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "SpiralTraversal",
+            "request": "launch",
+            "mainClass": "BinaryTree.SpiralTraversal",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "TopView",
+            "request": "launch",
+            "mainClass": "BinaryTree.TopView",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "CheckKthBitSet",
+            "request": "launch",
+            "mainClass": "Bitwise.CheckKthBitSet",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "CountSetBits",
+            "request": "launch",
+            "mainClass": "Bitwise.CountSetBits",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "Bitwise.EvenOdd",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "FindMissingNo",
+            "request": "launch",
+            "mainClass": "Bitwise.FindMissingNo",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "FindOneOddOccurring",
+            "request": "launch",
+            "mainClass": "Bitwise.FindOneOddOccurring",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "PowerOf2",
+            "request": "launch",
+            "mainClass": "Bitwise.PowerOf2",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "PowerSet",
+            "request": "launch",
+            "mainClass": "Bitwise.PowerSet",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "TwoOddOccurring",
+            "request": "launch",
+            "mainClass": "Bitwise.TwoOddOccurring",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "ChkFinlVarbl",
+            "request": "launch",
+            "mainClass": "Concept.ChkFinlVarbl",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Concept.Inheritance",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Queue",
+            "request": "launch",
+            "mainClass": "Concept.Queue",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Scanner_test",
+            "request": "launch",
+            "mainClass": "Concept.Scanner_test",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "TestingClassWithInterface",
+            "request": "launch",
+            "mainClass": "Concept.TestingClassWithInterface",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "BestTimeToBuyAndSellStock2",
+            "request": "launch",
+            "mainClass": "DP.BestTimeToBuyAndSellStock2",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonSubsequence",
+            "request": "launch",
+            "mainClass": "DP.LongestCommonSubsequence",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "LongestPalindromicSubstring",
+            "request": "launch",
+            "mainClass": "DP.LongestPalindromicSubstring",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "MinNoOpXToY",
+            "request": "launch",
+            "mainClass": "DP.MinNoOpXToY",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "BFS",
+            "request": "launch",
+            "mainClass": "DataStructure.BFS",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "DFS",
+            "request": "launch",
+            "mainClass": "DataStructure.DFS",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "MinHeap",
+            "request": "launch",
+            "mainClass": "DataStructure.MinHeap",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Trie",
+            "request": "launch",
+            "mainClass": "DataStructure.Trie",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicateNumber",
+            "request": "launch",
+            "mainClass": "FastSlowPointers.FindDuplicateNumber",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "HappyNumber",
+            "request": "launch",
+            "mainClass": "FastSlowPointers.HappyNumber",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "BestTimeToBuyAndSellStock2(1)",
+            "request": "launch",
+            "mainClass": "Greedy.BestTimeToBuyAndSellStock2",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "KthSmallest",
+            "request": "launch",
+            "mainClass": "Heap.KthSmallest",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Divisors",
+            "request": "launch",
+            "mainClass": "Mathematics.Divisors",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "FindPower",
+            "request": "launch",
+            "mainClass": "Mathematics.FindPower",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "HCF",
+            "request": "launch",
+            "mainClass": "Mathematics.HCF",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "LCM",
+            "request": "launch",
+            "mainClass": "Mathematics.LCM",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "PrimeFactor",
+            "request": "launch",
+            "mainClass": "Mathematics.PrimeFactor",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "Mathematics.PrimeNumber",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "SieveOfEratosthenes",
+            "request": "launch",
+            "mainClass": "Mathematics.SieveOfEratosthenes",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "TailingZerosFactorial",
+            "request": "launch",
+            "mainClass": "Mathematics.TailingZerosFactorial",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "Sorting.HeapSort",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "Sorting.InsertionSort",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Sorting.MergeSort",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "Sorting.QuickSort",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "RadixSort",
+            "request": "launch",
+            "mainClass": "Sorting.RadixSort",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Sorting.SelectionSort",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "String.Anagram",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "LargestPalindromeNumber",
+            "request": "launch",
+            "mainClass": "String.LargestPalindromeNumber",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "String.LongestCommonPrefix",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "LongestDistinctChar",
+            "request": "launch",
+            "mainClass": "String.LongestDistinctChar",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "LongestPalindrome",
+            "request": "launch",
+            "mainClass": "String.LongestPalindrome",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "MostFrequentWord",
+            "request": "launch",
+            "mainClass": "String.MostFrequentWord",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "OneEditDistance",
+            "request": "launch",
+            "mainClass": "String.OneEditDistance",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "RemAdjDuplicate",
+            "request": "launch",
+            "mainClass": "String.RemAdjDuplicate",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "String.RemoveDuplicates",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "RomanToInteger",
+            "request": "launch",
+            "mainClass": "String.RomanToInteger",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "StringPermutation",
+            "request": "launch",
+            "mainClass": "String.StringPermutation",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "StringRotation",
+            "request": "launch",
+            "mainClass": "String.StringRotation",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "StringToJson",
+            "request": "launch",
+            "mainClass": "String.StringToJson",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "WordPermutation",
+            "request": "launch",
+            "mainClass": "String.WordPermutation",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "Test1",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Test3",
+            "request": "launch",
+            "mainClass": "Test3",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Task1",
+            "request": "launch",
+            "mainClass": "contest.Task1",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Task2",
+            "request": "launch",
+            "mainClass": "contest.Task2",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "CARS24",
+            "request": "launch",
+            "mainClass": "interview.CARS24",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "ArraySumDivision",
+            "request": "launch",
+            "mainClass": "interview.expedia.ArraySumDivision",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "LongestIncreasingSequence",
+            "request": "launch",
+            "mainClass": "interview.expedia.LongestIncreasingSequence",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "interview.expedia.Solution",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "SortArray",
+            "request": "launch",
+            "mainClass": "interview.expedia.SortArray",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeLinkedList",
+            "request": "launch",
+            "mainClass": "linkedList.PalindromeLinkedList",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "FindMaximum",
+            "request": "launch",
+            "mainClass": "slidingwindow.FindMaximum",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "Solution(1)",
+            "request": "launch",
+            "mainClass": "test.Solution",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "LongestConsecutiveSequence",
+            "request": "launch",
+            "mainClass": "unionFind.LongestConsecutiveSequence",
+            "projectName": "DSA_eaf48479"
+        },
+        {
+            "type": "java",
+            "name": "NoOfIsland",
+            "request": "launch",
+            "mainClass": "unionFind.NoOfIsland",
+            "projectName": "DSA_eaf48479"
+        }
+    ]
+}
